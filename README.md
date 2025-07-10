@@ -79,7 +79,8 @@ It is built to:
 
 ### 🖼️ Visual Diagram
 
-![System Diagram](screenshots/image.png)
+![Patient Workflow](screenshots/patientWorkflow.png)
+![Therapist Workflow](screenshots/therapistWorkflow.png)
 
 ---
 
