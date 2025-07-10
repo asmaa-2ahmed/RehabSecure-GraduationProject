@@ -77,7 +77,7 @@ It is built to:
 
 ## 🧬 System Architecture
 
-> *(You can insert a diagram here using `![System Diagram](./path/to/image.png)`)*
+![System Diagram](./path/to/image.png)
 
 ```mermaid
 graph TD;
