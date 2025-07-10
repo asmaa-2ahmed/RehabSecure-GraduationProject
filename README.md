@@ -80,7 +80,7 @@ It is built to:
 ### 🖼️ Visual Diagram
 
 ![Patient Workflow](screenshots/patientWorkflow.png)
-![Therapist Workflow](screenshots/therapistWorkflow.png)
+![Therapist Workflow](screenshots/TherapistWorkflow.png)
 
 ---
 
@@ -88,46 +88,58 @@ It is built to:
 ![EMG Test](screenshots/app_1.png)
 ![AI Personal Trainer](screenshots/app_2.png)
 
-🛡️ Security Highlights
-AES Encryption (128-bit): Fast, real-time symmetric encryption of sensitive EMG/ECG data.
+---
 
-Blockchain Logging: Immutable session records with timestamps.
+## 🛡️ Security Highlights
 
-Role-Based Access: Separate flows for therapists and patients.
+- 🔐 **AES Encryption (128-bit):** Fast, real-time encryption of EMG/ECG data  
+- 🔗 **Blockchain Logging:** Immutable session records with timestamps  
+- 👥 **Role-Based Access:** Distinct interfaces for therapists and patients  
+- 🔑 **Firebase Authentication:** Secure sign-in with validation
 
-Firebase Authentication: Secure sign-up/login with email/password validation.
+---
 
-🚀 Future Enhancements
-📡 Cloud-based therapist video supervision
+## 🚀 Future Enhancements
 
-💾 Real-time training dashboard & feedback history
+- 📡 Cloud-based therapist video supervision  
+- 📊 Real-time training dashboard & history  
+- 🗣️ Voice-guided exercise assistant  
+- 🧠 GPT-powered rehab support assistant  
+- 🔍 Cross-patient progress analytics
 
-🗣️ Voice-guided exercise assistant
+---
 
-📊 Cross-patient analytics for large-scale rehab studies
+## 👩‍💻 Authors
 
-🧠 Integration with GPT-based health assistants
+| Name                        | Role               |
+|----------------------------|--------------------|
+| Asmaa Ahmed Ahmed           | AI |
+| Farah Nasr Gowiyd           | AI           |
+| Habiba Osama Abd Elkhalek   | AI      |
+| Mariam Ahmed Mahmoud        | Cyber Security     |
+| Marian Maher Sobhy          | Frontend & Backend |
 
-👩‍💻 Authors
-Asmaa Ahmed Ahmed - AI
-Farah Nasr Gowiyd - AI
-Habiba Osama Abd Elkhalek - AI
-Mariam Ahmed Mahmoud - Cyber Security
-Marian Maher Sobhy  - Computer Science
-
-Supervised by:
-Prof. Dr. Saad Darwish
-Dr. Sahar Ghanem
+**Supervised by:**  
+Prof. Dr. Saad Darwish  
+Dr. Sahar Ghanem  
 Eng. Esraa Hamshary
 
-🏫 Developed at
-Faculty of Computer Science & Artificial Intelligence
-Pharos University in Alexandria
-Class of 2025 🎓
+---
 
-📚 References
-UCI Machine Learning Repository – EMG datasets
-EPFL ECG Fatigue Dataset
-MediaPipe Pose Estimation Toolkit
+## 🏫 Developed at
 
-Full model references and citations available in /documentation.pdf
+**Faculty of Computer Science & Artificial Intelligence**  
+Pharos University in Alexandria  
+**Class of 2025 🎓**
+
+---
+
+## 📚 References
+
+- UCI Machine Learning Repository – EMG datasets  
+- EPFL ECG Fatigue Dataset  
+- MediaPipe Pose Estimation Toolkit  
+
+📄 *Full citations available in* [`/documentation.pdf`](documentation.pdf)
+
+---
