@@ -83,17 +83,6 @@ It is built to:
 
 ---
 
-### 📊 Logical Flow (Mermaid Diagram)
-
-```mermaid
-graph TD;
-    A[Patient with Wearables] -->|EMG/ECG/IMU Signals| B[ESP32 Microcontroller]
-    B -->|Real-Time Streaming| C[Flask Backend]
-    C -->|AI Model Inference| D[Mobile App - FlxiCare]
-    D -->|Secure Storage| E[Firebase + Blockchain]
-    D -->|Visual Feedback| F[Patient Display]
-    D -->|Alerts + Progress| G[Therapist Dashboard]
-
 📷 App Screenshots
 ![EMG Test](screenshots/app_1.png)
 ![AI Personal Trainer](screenshots/app_2.png)
