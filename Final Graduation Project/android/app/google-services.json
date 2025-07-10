@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90090542651",
+    "project_id": "gp-account",
+    "storage_bucket": "gp-account.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90090542651:android:c5ddc2cf9298204357ae1e",
+        "android_client_info": {
+          "package_name": "com.example.account_gp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdavkr762tZchs70bWhFEEeeeyL8vd3l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
