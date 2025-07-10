@@ -77,7 +77,13 @@ It is built to:
 
 ## 🧬 System Architecture
 
-![System Diagram](./path/to/image.png)
+### 🖼️ Visual Diagram
+
+![System Diagram](screenshots/image.png)
+
+---
+
+### 📊 Logical Flow (Mermaid Diagram)
 
 ```mermaid
 graph TD;
@@ -87,6 +93,7 @@ graph TD;
     D -->|Secure Storage| E[Firebase + Blockchain]
     D -->|Visual Feedback| F[Patient Display]
     D -->|Alerts + Progress| G[Therapist Dashboard]
+
 📷 App Screenshots
 ![EMG Test](screenshots/app_1.png)
 ![AI Personal Trainer](screenshots/app_2.png)
